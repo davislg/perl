@@ -1,4 +1,4 @@
-perl
+Perl
 ====
 
 Perl examples. Learning Perl.
