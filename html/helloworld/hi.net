@@ -4,7 +4,7 @@ use warnings;
 
 print "Content-type: text/html\n\n";
 print "<html><head>\n";
-print "<title>CGI Test</title>\n";
+print "<title>Hi World!</title>\n";
 print "</head>\n";
 print "<body><h3>Hi World!</h3>\n";
 print "</body></html>\n"; 
